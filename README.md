@@ -78,8 +78,3 @@ O sistema deve ser um sistema na plataforma web com **interface responsiva** par
 | Treinamento e Documentação | 2 semanas | Equipe de Documentação, Treinadores | Pode ser paralelo com Testes     |
 | Implantação                | 1 semana  | Equipe de Implantação     | Integração e Testes               |
 | Manutenção e Suporte       | 2 semanas | Equipe de Suporte         | Implantação                       |
-
-## Entrega
-- **Data de Entrega**: até 02-jul às 23h59;
-- O cronograma deve ser submetido por PDF ou link nesta atividade;
-- Se for submetido um link, certifique-se que ele está acessível pelo professor.
