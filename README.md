@@ -78,3 +78,13 @@ O sistema deve ser um sistema na plataforma web com **interface responsiva** par
 | Treinamento e Documentação | 2 semanas | Equipe de Documentação, Treinadores | Pode ser paralelo com Testes     |
 | Implantação                | 1 semana  | Equipe de Implantação     | Integração e Testes               |
 | Manutenção e Suporte       | 2 semanas | Equipe de Suporte         | Implantação                       |
+
+
+
+
+### Alunos:
+-Brenno Lopes
+-Pedro Nasser
+-Igor Max
+-Filipe Marra
+-Lucas Rocha Dantas
